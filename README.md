@@ -1,5 +1,3 @@
----
-
 # 🕹️ Proyek "ANTI-SANTUY" – Alarm Pintar Berbasis ESP32
 
 > 🚨 *Bangun pagi gak bisa santai-santai lagi!*
