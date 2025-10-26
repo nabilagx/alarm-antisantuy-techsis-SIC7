@@ -155,6 +155,3 @@ BNGUUN!! (Tekan tombol!)
 =================================
 ```
 
----
-
-Apakah kamu ingin saya tambahkan **bagian wiring diagram (dalam bentuk gambar Fritzing/ASCII schematic)** juga di README-nya biar makin lengkap?
