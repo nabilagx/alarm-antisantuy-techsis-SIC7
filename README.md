@@ -143,13 +143,6 @@ stateDiagram-v2
 
 ---
 
-## 📜 Lisensi
-
-Proyek ini bersifat **Open Source** untuk tujuan edukasi.
-Silakan dimodifikasi, dikembangkan, dan dipamerkan — asal tetap menyertakan kredit ke **Techsis** ✨
-
----
-
 ## ❤️ Preview (Serial Output)
 
 ```
